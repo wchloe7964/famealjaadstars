@@ -1,13 +1,12 @@
 // Initialize Firebase
  const firebaseConfig = {
-  apiKey: "AIzaSyB6qvEHQlGZIX8Ec5mTlJPoP1iBJ_DAqes",
-  authDomain: "shinefamedb.firebaseapp.com",
-  databaseURL: "https://shinefamedb-default-rtdb.firebaseio.com",
-  projectId: "shinefamedb",
-  storageBucket: "shinefamedb.appspot.com",
-  messagingSenderId: "996030668473",
-  appId: "1:996030668473:web:18fb19dc61291a57e08568",
-  measurementId: "G-B77J3Q7S90"
+  apiKey: "AIzaSyBO1PaR6tdkHhXQl04kibbaWDFuuXlc9g8",
+  authDomain: "famealjaadstars.firebaseapp.com",
+  databaseURL: "https://famealjaadstars-default-rtdb.firebaseio.com",
+  projectId: "famealjaadstars",
+  storageBucket: "famealjaadstars.appspot.com",
+  messagingSenderId: "1044142819455",
+  appId: "1:1044142819455:web:76e5b9f298d1ba02e4174a"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
